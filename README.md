@@ -8,6 +8,8 @@
   * x1
 * Switch
   * x8
+* AND Switch
+  * x14
 * Electrical Branch
   * x22
 * Door Controller
